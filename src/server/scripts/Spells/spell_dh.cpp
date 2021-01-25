@@ -28,7 +28,7 @@
 
 enum DemonHunterSpells
 {
-        SPELL_DH_FEL_RUSH_DASH                  = 197922,
+    SPELL_DH_FEL_RUSH_DASH                  = 197922,
     SPELL_DH_FEL_RUSH_AIR                   = 197923,
     SPELL_DH_FEL_RUSH                       = 195072,
     //SPELL_DH_FEL_RUSH_DAMAGE                = 192611,
